@@ -64,6 +64,11 @@ This step helped in selecting suitable features for regression modeling.
 
    * A higher R² value indicates better predictive performance.
 
+## Model Performance
+ * Algorithm: Linear Regression
+ * Train-Test Split: 80/20
+ * R² Score: 0.78
+
 ## Technologies Used
 
  * Python
